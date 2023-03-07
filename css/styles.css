@@ -1,0 +1,37 @@
+h1{
+    width: 500px;
+    color: red;
+    text-align: center;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 350px; 
+    /*background-color: purple;*/
+    
+}
+
+h3{
+    color: black;
+    width: 684px;
+    border-color: white;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: green;
+    font-size: 20px; 
+}
+
+div{
+   /* margin-left: 270px;*/
+    
+    background-color: black;
+    height: 745px;    
+    border-color: black;
+    
+}
+ol{
+    -webkit-text-fill-color: aliceblue;
+}
+  
